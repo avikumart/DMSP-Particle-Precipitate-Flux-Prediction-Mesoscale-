@@ -15,4 +15,6 @@ The target feature is `ELE_TOTAL_ENERGY_FLUX` which is a continuous variable. Th
 1. Data analysis using pandas
 2. Data cleaning and transformation
 3. Recursive feature selection
-4. LightGBM baseline modeling
+4. LightGBM baseline modeling `R2_score - 0.79`
+5. Neural Network model `R2_score - 0.89` 
+6. Model comparison
